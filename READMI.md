@@ -10,3 +10,4 @@
 - git log           ->    exibir o histórico do commits no repositório
 - git remote add ENDEREÇO_REPOSITÓRIO  -> sdiciona o repositório remoto como referencias para o local
 - git push origin main    -> executando o push enviando as alterações remotas
+- git pull origin main      ->   executa o pull baixando as alterações para o repositório local
